@@ -153,6 +153,8 @@ http://103.213.31.109:90/BBCNewsHD/playlist.m3u8
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (720p) (HEVC) (1080p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="CNNPrimaNews.cz@SD" tvg-logo="https://i.imgur.com/elZyUjX.png" group-title="News",CNN Prima News (1080p)
+http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="EBCFinancialNews.tw@SD" tvg-logo="https://i.imgur.com/uFDkOhV.png" group-title="News",EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="EBCNews.tw@SD" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="News",EBC News (東森新聞台) (1080p) [Not 24/7]
