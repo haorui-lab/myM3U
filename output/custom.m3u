@@ -175,6 +175,8 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="News",RTP Noticias (504p) [Not 24/7]
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SICNoticias.pt@SD" tvg-logo="https://i.imgur.com/Gi6Q26M.png" http-referrer="https://sicnoticias.pt/" http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0" group-title="News",SIC Notícias (1080p) [Geo-blocked]
+https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1 tvg-id="TVBSNews.tw@SD" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="News",TVBS News (TVBS新聞台) [Geo-blocked]
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="WJBK21.us@HD" tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="News",WJBK-DT1 (1080p)
